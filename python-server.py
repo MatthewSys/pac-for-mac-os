@@ -2,7 +2,6 @@
 
 import http.server
 import socketserver
-import os
 
 ADDR = "127.0.0.1"
 PORT = 8443
